@@ -21,9 +21,9 @@ Requirements
 Installation
 ------------
 
-Install from [GitHub](https://github.com/kirikae/ansible-skeleton)
+Install from [GitHub](https://github.com/llamalump/ansible-skeleton)
 ```bash
-git clone https://github.com/kirikae/ansible-skeleton.git
+git clone https://github.com/llamalump/ansible-skeleton.git
 ```
 
 Usage
@@ -90,4 +90,4 @@ MIT
 Author
 ------
 
-* Kirikae <kirikae@cs-network.org>
+* LlamaLump <llamalump@itwasdns.com>
