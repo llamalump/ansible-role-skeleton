@@ -1,4 +1,4 @@
-Ansible Skeleton
+Ansible Role Skeleton
 ================
 
 A Skeleton for Ansible role development.
@@ -21,9 +21,9 @@ Requirements
 Installation
 ------------
 
-Install from [GitHub](https://github.com/llamalump/ansible-skeleton)
+Install from [GitHub](https://github.com/llamalump/ansible-role-skeleton)
 ```bash
-git clone https://github.com/llamalump/ansible-skeleton.git
+git clone https://github.com/llamalump/ansible-role-skeleton.git
 ```
 
 Usage
